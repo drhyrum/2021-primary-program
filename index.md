@@ -62,6 +62,6 @@ https://github.com/drhyrum/2021-primary-program/raw/main/list/Joseph%20Smith%E2%
 </script>
 
 
-All files were sourced from https://youtube.com/
+All files were sourced from [https://youtube.com/].
 
 
