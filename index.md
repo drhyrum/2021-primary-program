@@ -6,4 +6,4 @@
 </audio>
 
 
-<a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u)" download>Download the playlist.</a>
+<a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download>Download the playlist.</a>
