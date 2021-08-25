@@ -1,9 +1,7 @@
-<a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download>Download the playlist.</a>
-
-Play on Youtube (may contain ads):
+### Play on Youtube (may contain ads):
 <a href="https://www.youtube.com/watch?v=wVBtsELKwvw&list=PLmpul3lpxxJoNbE2pRts60_ClOnIOYu7m" target="_blank"><img src="https://logodix.com/logo/360168.png" width="100"></a>
 
-Play audio here:
+### Play in browser 
 <style>
     #playlist{
         list-style: none;
@@ -89,6 +87,4 @@ Play audio here:
 </script>
 
 
-All files were sourced from [https://youtube.com/].
-
-
+<a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download="playlist.m3u">Download the playlist.</a>
