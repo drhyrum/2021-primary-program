@@ -1,12 +1,6 @@
-## 2021 Primary Program
-
-### Download the playlist
 <a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download>Download the playlist.</a>
+<a href="https://www.youtube.com/watch?v=wVBtsELKwvw&list=PLmpul3lpxxJoNbE2pRts60_ClOnIOYu7m" target="_blank" height="100" width="100"><img src="https://logodix.com/logo/360168.png"></a>
 
-### Open playlist in youtube
-<a href="https://www.youtube.com/watch?v=wVBtsELKwvw&list=PLmpul3lpxxJoNbE2pRts60_ClOnIOYu7m" target="_blank"><img src="https://logodix.com/logo/360168.png"></a>
-
-### Play a specific song
 <style>
     #playlist{
         list-style: none;
