@@ -1,7 +1,6 @@
 ## 2021 Primary Program
 <a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download>Download the playlist.</a>
 
-# 2021-primary-program
 <style>
     #playlist{
         list-style: none;
