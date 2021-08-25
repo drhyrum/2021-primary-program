@@ -22,12 +22,36 @@
 <li class="current-song"><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Step%20by%20Step%20(a%20new%20baptism%20song%20by%20Angie%20Killian).mp3
 ">Step by Step</a></li>
 
-<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Joseph%20Smith%E2%80%99s%20First%20Prayer%20Hymn%20%2326%20(With%20Lyrics).mp3
-https://github.com/drhyrum/2021-primary-program/raw/main/list/Joseph%20Smith%E2%80%99s%20First%20Prayer%20Hymn%20%2326%20(With%20Lyrics).mp3">Joseph Smith's First Prayer</a></li>
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Joseph%20Smith%E2%80%99s%20First%20Prayer%20Hymn%20%2326%20(With%20Lyrics).mp3">Joseph Smith's First Prayer</a></li>
 
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/My%20Own%20Sacred%20Grove%20(original%20song%20by%20Angie%20Killian)%20(1).mp3
 ">My Own Sacred Grove</a></li>
 
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Have%20I%20Done%20Any%20Good%20-%20Sing%20Along.mp3
+">Have I Done Any Good?</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I%20Know%20That%20My%20Redeemer%20Lives%20-%207-Year-Old%20Claire%20Crosby.mp3
+">I Know That My Reedeemer Lives</a></li>
+    
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I%20Love%20to%20See%20the%20Temple.mp3
+">I Love To See The Temple</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I%20WANT%20TO%20BE%20A%20MISSIONARY%20NOW%20Lyrics%20%20Primary%20Song.mp3
+">I Want to be a missionary now!</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I'm%20Trying%20to%20Be%20Like%20Jesus%20Lyric%20Video.mp3
+">Jesus said Love everyone</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/The%20Church%20of%20Jesus%20Christ%20-%20a%20Primary%20song.mp3
+">I belong to the Church of Jesus Christ</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/The%20Priesthood%20Is%20Restored%20Children%E2%80%99s%20Songbook%20%2389%20(With%20Lyrics).mp3
+">The Priesthood Is Restored</a></li>
+
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I%20Love%20to%20See%20the%20Temple.mp3
+">I Love to See the Templ</a></li>
+
+    
 </ul>
 
 <script src="https://code.jquery.com/jquery-2.2.0.js">
