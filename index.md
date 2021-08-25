@@ -49,7 +49,7 @@
 ">The Priesthood Is Restored</a></li>
 
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/I%20Love%20to%20See%20the%20Temple.mp3
-">I Love to See the Templ</a></li>
+">I Love to See the Temple</a></li>
 
     
 </ul>
