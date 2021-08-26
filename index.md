@@ -80,7 +80,9 @@
         }    
 </script>
 
+
 ### QR Code to website
+
 <img src="https://github.com/drhyrum/2021-primary-program/raw/gh-pages/primary_program_qr_code.png">
 
 
