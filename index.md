@@ -84,7 +84,7 @@
 
 ### Download a playlist
 
-<a href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download="2021-primary-program.m3u">Download the playlist.</a>
+<a mimetype="application/octet-stream" href="https://raw.githubusercontent.com/drhyrum/2021-primary-program/main/playlist.m3u" download="2021-primary-program.m3u">Download the playlist.</a>
 
 
 ### QR Code to website
