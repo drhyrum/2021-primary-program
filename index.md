@@ -2,7 +2,7 @@
 ### Play on Youtube (may contain ads):
 <a href="https://www.youtube.com/watch?v=wVBtsELKwvw&list=PLmpul3lpxxJoNbE2pRts60_ClOnIOYu7m" target="_blank"><img src="https://logodix.com/logo/360168.png" width="100"></a>
 
-### Play in browser 
+### Play audio in browser (no ads)
 
 <style>
     #playlist{
@@ -18,7 +18,7 @@
 </style>
 
 <audio src="" controls id="audioPlayer">
-    Sorry, your browser doesn't support html!
+    Sorry, your browser doesn't support HTML 5!
 </audio>
 
 
@@ -38,9 +38,9 @@
 
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Joseph%20Smith%E2%80%99s%20First%20Prayer%20Hymn%20%2326%20(With%20Lyrics).mp3">Joseph Smith</a></li>
 
-<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/My%20Own%20Sacred%20Grove%20(original%20song%20by%20Angie%20Killian).mp3">Angie Killian - My Own Sacred Grove</a></li>
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/My%20Own%20Sacred%20Grove%20(original%20song%20by%20Angie%20Killian).mp3">My Own Sacred Grove (Angie Killian)</a></li>
 
-<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Step%20by%20Step%20(a%20new%20baptism%20song%20by%20Angie%20Killian).mp3">Angie Killian - Step by Step</a></li>
+<li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/Step%20by%20Step%20(a%20new%20baptism%20song%20by%20Angie%20Killian).mp3">Step by Step (Angie Killian)</a></li>
 
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/The%20Church%20of%20Jesus%20Christ%20-%20a%20Primary%20song.mp3">The Church of Jesus Christ</a></li>
 
