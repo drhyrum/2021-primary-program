@@ -84,7 +84,7 @@
 
 ### Download a playlist
 
-<a href="2021-primary-program-playlist.m3u" target="_blank" download type="audio/x-mpegurl">Download the playlist.</a>
+<a href="2021-primary-program-playlist.m3u" target="_blank" type="audio/x-mpegurl">Download the playlist.</a>
 
 ### QR Code to website
 
