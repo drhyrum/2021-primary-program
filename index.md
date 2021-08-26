@@ -46,9 +46,10 @@
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/The%20Priesthood%20Is%20Restored%20Children%E2%80%99s%20Songbook%20%2389%20(With%20Lyrics).mp3">The Priesthood Is Restored</a></li>
 
 <li><a href="https://github.com/drhyrum/2021-primary-program/raw/main/list/When%20I%20am%20Baptized.mp3">When I am Baptized</a></li>
+   
+</ul>
     
-<script src="https://code.jquery.com/jquery-2.2.0.js">
-</script>
+<script src="https://code.jquery.com/jquery-2.2.0.js"></script>
 <script>
     // loads the audio player
     audioPlayer();
